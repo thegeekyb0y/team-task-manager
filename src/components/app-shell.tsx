@@ -34,10 +34,8 @@ export function AppShell({
         <aside className="hidden w-64 flex-col border-r border-border bg-card lg:flex">
           <div className="border-b border-border px-6 py-5">
             <div className="flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground text-sm font-bold">
-                O
-              </div>
-              <span className="text-lg font-semibold">Orbit</span>
+              <img src="/favicon.png" alt="My Logo" className="h-8 w-auto" />
+              <span className="text-lg font-semibold">Orrbit</span>
             </div>
           </div>
 
