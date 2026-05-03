@@ -11,9 +11,12 @@
     <a href="#getting-started"><strong>Getting Started</strong></a> •
     <a href="#deployment"><strong>Deployment</strong></a>
   </p>
+
 </div>
 
 ---
+
+![Dashboard Screenshot](./public/ss3.png)
 
 ## Overview
 
@@ -21,12 +24,12 @@ Orbit is a full-stack task management application that enables teams to collabor
 
 ### Key Highlights
 
-- **🔐 Secure Authentication** - NextAuth.js with credential-based login and encrypted passwords
-- **👥 Team Collaboration** - Multi-project workspaces with admin/member roles
-- **📊 Project Boards** - Kanban-style boards with drag-and-drop task management
-- **⚡ Real-time Updates** - Server actions with automatic revalidation
-- **🎨 Modern UI** - Clean, responsive interface with dark mode support
-- **🚀 Production Ready** - Deployed on Railway with PostgreSQL
+- **Secure Authentication** - NextAuth.js with credential-based login and encrypted passwords
+- **Team Collaboration** - Multi-project workspaces with admin/member roles
+- **Project Boards** - Kanban-style boards with drag-and-drop task management
+- **Real-time Updates** - Server actions with automatic revalidation
+- **Modern UI** - Clean, responsive interface with dark mode support
+- **Production Ready** - Deployed on Railway with PostgreSQL
 
 ---
 
@@ -68,15 +71,11 @@ Orbit is a full-stack task management application that enables teams to collabor
 
 ### Dashboard
 
-![Dashboard showing task metrics and assignments](./docs/dashboard.png)
+![Dashboard Screenshot](./public/ss1.png)
 
 ### Project Board
 
-![Kanban board with task cards organized by status](./docs/board.png)
-
-### Task Management
-
-![Detailed task view with assignment and status controls](./docs/tasks.png)
+![Project Board Screenshot](./public/ss2.png)
 
 ---
 
